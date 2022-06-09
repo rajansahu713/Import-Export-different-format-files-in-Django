@@ -1,0 +1,16 @@
+medium
+.medium
+
+# migrations files
+app/migrations
+.app/migrations
+
+# database
+db.sqlite3
+
+# unnecessary directory
+medium
+.medium
+app/__pycache__
+.app/__pycache__
+.medium.zip
